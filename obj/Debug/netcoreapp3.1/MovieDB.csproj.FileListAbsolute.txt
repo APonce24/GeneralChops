@@ -165,3 +165,4 @@ C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\obj\Debug\netcoreapp3.1
 C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
 C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
 C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\Web.config
