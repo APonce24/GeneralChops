@@ -160,3 +160,8 @@ C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\bin\Debug\netcoreapp3.1
 C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\ponce\Desktop\All Things Coding\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
